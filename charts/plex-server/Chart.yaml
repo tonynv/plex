@@ -1,6 +1,6 @@
 apiVersion: v2
 name: plex-server
-description: A Helm chart for Kubernetes
+description: A Plex Helm chart for Kubernetes (not ready)
 
 # A chart can be either an 'application' or a 'library' chart.
 #
